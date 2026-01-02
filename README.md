@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sramana Ghosh! 👋
 
-<!--
-**sramanaghosh/sramanaghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Graduate Student specializing in Deep Learning. I focus on understanding the "black box" of AI by building complex architectures from the ground up using NumPy.
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 [Deep Learning Foundations](https://github.com/sramanaghosh/Deep-Learning-from-Scratch-MNIST)
+Built a modular neural network library. Achieved **95%+ accuracy** on MNIST using backpropagation and custom optimization.
+
+### 🖼️ [Computer Vision & CNNs](https://github.com/sramanaghosh/CNN-Architecture-Implementation)
+Implemented vectorized `Conv2D` and `MaxPool2D` layers. Built **LeNet-5** and **Mini-VGG** to classify CIFAR-10 images.
+
+### ✍️ [NLP & Attention Mechanisms](https://github.com/sramanaghosh/RNN-Transformer-NLP-Scratch)
+Developed sequence models from scratch, including **LSTMs, GRUs, and Multi-Head Attention**. 
+
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL
+- **AI/ML:** NumPy, Matplotlib, Neural Network Fundamentals
+- **Tools:** Git, GitHub
